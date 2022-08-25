@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development ie Web and Mobile Apps
 - 🌱 I’m currently learning Springboot, GoLang and Flutter
 - 💞️ I’m looking to collaborate on any Frontend Project and/or the development of a tool such as flutter, react and MUI
-- 📫 To reach me: Send an email to fmwangi.mbugua94@gmail.com
+- 📫 To reach me: Send an email to m.mwangi.fredrick
 
 <!---
 TheCodeNinja254/TheCodeNinja254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
