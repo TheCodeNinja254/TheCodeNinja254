@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Fredrick Mbugua (@TheCodeNinja254)
+- 👋 Hi, I’m Fredrick Mbugua (@TheCodeNinja254)!
 - 👀 I’m interested in Frontend Development ie Web and Mobile Apps
 - 🌱 I’m currently learning Springboot, GoLang and Flutter
 - 💞️ I’m looking to collaborate on any Frontend Project and/or the development of a tool such as flutter, react and MUI
-- 📫 To reach me: Send an email to m.mwangi.fredrick
+- 📫 To reach me: Send an email to mailto:m.mwangi.fredrick@gmail.com
 
 <!---
 TheCodeNinja254/TheCodeNinja254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
